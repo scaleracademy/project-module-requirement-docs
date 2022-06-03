@@ -44,6 +44,13 @@
 	    "createdAt: "2022-02-07 03:40:55"
     }
 
+### Errors 
+```
+{
+    "message": "User with username: arnav123 not found"
+}
+```
+
 ## API Endpoints 
 
 ### `POST /users` 
