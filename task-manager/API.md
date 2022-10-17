@@ -46,6 +46,8 @@ Edit a task - Add / Remove notes from the task. Mark a task completed.
 ### `DELETE /tasks/{task_id}`
 Delete a particular task
 
+---- ADDITIONAL TASKS (BONUS) -----
+
 ### `GET  /tasks/{task_id}/notes`
 Fetch all the notes under a particular task 
 
