@@ -45,3 +45,12 @@ Edit a task - Add / Remove notes from the task. Mark a task completed.
 
 ### `DELETE /tasks/{task_id}`
 Delete a particular task
+
+### `GET  /tasks/{task_id}/notes`
+Fetch all the notes under a particular task 
+
+### `POST  /tasks/{task_id}/notes` 
+Create a new note under the task with given task id 
+
+### `DELETE /tasks/{task_id}/notes/{notes_id}`
+Delete a note
