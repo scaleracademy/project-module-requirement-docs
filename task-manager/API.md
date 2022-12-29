@@ -33,7 +33,7 @@ Create a new task
 ### `GET /tasks`
 Get all tasks
 Available filters - 
-- `/articles?completed=true/false`
+- `/tasks?completed=true/false`
 
 ### `GET /tasks/{task_id}`
 Get the details of a particular task including notes
